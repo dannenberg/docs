@@ -51,7 +51,7 @@ title:
 stepnum: 3
 ref: initiate-rs
 pre: |
-  Use :method:`rs.initiate()` on the replica set member:
+  Use :method:`rs.initiate()` on one and only one of the replica set members:
 action:
   language: javascript
   code: |
